@@ -14,6 +14,10 @@ get '/faq' do
   erb :faq
 end
 
+get '/calculators' do
+  erb :calculators
+end
+
 get '/advanced_calc' do
   erb :advanced_calc
 end
