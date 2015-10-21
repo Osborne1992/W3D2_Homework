@@ -2,17 +2,20 @@ body {
   background-image: url("earth.jpg");
   background-repeat: no-repeat;
   color: white;
+  width: 960px;
+  margin: 0px auto 0px auto;
 }
 
 a {
   color: #FFFFFF;
 }
 
-ul {
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-li {
+
+nav li {
   display: inline;
 }
